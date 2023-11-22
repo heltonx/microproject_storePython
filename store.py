@@ -15,7 +15,7 @@ def buy():
 
     print ( total )
 
-def main():
+def main() :
     buy()
 
 if __name__ == "__main__":
