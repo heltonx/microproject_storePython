@@ -11,7 +11,7 @@ def buy():
             break
         else:
             print ( "opcao invalida" )
-        option = input( "Keep buying - 1; get out - 2: " )
+        option = input ( "Keep buying - 1; get out - 2: " )
 
     print ( total )
 
