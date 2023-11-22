@@ -3,7 +3,7 @@ def buy():
 
     option = '1'
     total = 0
-    while True:
+    while True :
         if option == '1':
             value = int (input ("type the value of the product" ) )
             total = total + value
